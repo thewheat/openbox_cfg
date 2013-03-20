@@ -1,0 +1,5 @@
+hsetroot -solid "#000000" # desktop background color
+tint2 &                   # custom taskbar
+tilda &                   # console app
+xcompmgr &                # compositing for transparency
+osdsh -p 1 -a 1 &         # on screen text overlay for notifications 
